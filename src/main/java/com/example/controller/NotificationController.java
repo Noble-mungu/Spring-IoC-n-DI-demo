@@ -20,3 +20,4 @@ public class NotificationController {
         return "Notification sent using " + type;
     }
 }
+
